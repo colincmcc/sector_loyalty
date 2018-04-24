@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart';
 
 import 'package:fluro/fluro.dart';
+import 'routes/routes.dart';
 
 void main() => runApp(new SectorApp());
 
-class SectorApp extends StatefulWidget{
-
+class SectorApp extends StatefulWidget {
   @override
-  State createState(){
+  State createState() {
     return new SectorAppState();
   }
 }
 
 class SectorAppState extends State<SectorApp> {
-  SectorAppState(){
+  SectorAppState() {
     final router = new Router();
     Routes.configureRoutes(router);
     Application.router = router;
@@ -32,4 +32,3 @@ class SectorAppState extends State<SectorApp> {
 class Application {
   static Router router;
 }
-

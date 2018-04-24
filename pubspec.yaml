@@ -7,6 +7,8 @@ dependencies:
   fluro: "^1.1.0"
   http: 0.11.3+16
   firebase_auth: "^0.5.4"
+  google_sign_in: "^3.0.2"
+
 
 
 

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225676644926",
+    "firebase_url": "https://sector-loyalty.firebaseio.com",
+    "project_id": "sector-loyalty",
+    "storage_bucket": "sector-loyalty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225676644926:android:a25e431ef61bb027",
+        "android_client_info": {
+          "package_name": "io.sectorapp.sector_loyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225676644926-r793q72jju4ejrn7bu3snc9t3b3j8pft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.sectorapp.sector_loyalty",
+            "certificate_hash": "3c416a87e9400242598c2cd88ba3bc5805d5182e"
+          }
+        },
+        {
+          "client_id": "225676644926-87oh0r2ef9hi0rvn7im5gbu6k89rinbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSMQEVxPIww2AlbIYyBo82Z9dxciXj2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225676644926-87oh0r2ef9hi0rvn7im5gbu6k89rinbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
